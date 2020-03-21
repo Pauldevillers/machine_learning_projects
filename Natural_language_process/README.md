@@ -1,4 +1,4 @@
-# machine_learning_projects
+# Natural Language Process
 
 In this repository, you will find my own machine learning projects.
 
